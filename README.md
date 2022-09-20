@@ -34,7 +34,7 @@ Lista desordenada
 
 ```
 
-[Enlace de Youtube](URL "[https://www.youtube.com](https://www.youtube.com/watch?v=MN4DQ_Vd0n]")
+[Enlace de Youtube](https://www.youtube.com](https://www.youtube.com/watch?v=MN4DQ_Vd0n)
 
 ![Foto](gato-slide.jpg)
 
