@@ -36,5 +36,5 @@ Lista desordenada
 
 [Enlace de Youtube](URL "https://www.youtube.com")
 
-![Foto]("gato-slide.jpg")
+![Foto](gato-slide.jpg)
 
