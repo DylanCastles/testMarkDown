@@ -38,3 +38,4 @@ Lista desordenada
 
 ![Foto](gato-slide.jpg)
 
+Encabezado 1 | Encabezado 2 | Encabezado 3
