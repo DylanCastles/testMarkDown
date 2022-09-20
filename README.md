@@ -40,6 +40,6 @@ Lista desordenada
 
 |Encabezado 1|Encabezado 2|Encabezado 3|
 |:-----------|:----------:|-----------:|
-|Item1       |Boligrafo   |2€          |
+|Item1       |Boligrafo |2€          |
 |Item2       |Lavadora    |400€        |
 |Item3       |Lapizes     |4€          |
