@@ -23,7 +23,15 @@ Lista ordenada con subtitulos:
 
 Lista desordenada
 * Titulo1
-+ Titulo2
+- Titulo2
 + Titulo3
 
 ```html
+<html>
+  <head>
+  <\head>
+<\html>
+
+```
+
+[Enlace de Youtube] (URL "https://www.youtube.com/")
