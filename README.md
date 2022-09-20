@@ -13,3 +13,16 @@ __Este texto aparece en negrita__
 
 Mi nombre es *Alberto* y estoy en la 301
 Mi nombre es _*Alberto*_ y estoy en la 301
+
+Lista ordenada:
+1. Titulo1
+2. Titulo2
+
+Lista ordenada con subtitulos:
+
+
+Lista desordenada
+* Titulo1
+- Titulo2
++ Titulo3
+
